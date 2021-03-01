@@ -16,5 +16,5 @@
 ### Thành viên nhóm
 
 | STT | Họ tên | MSSV | Github | Facebook |
-| :---: | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | 1 | Nguyễn Văn Kiệt | 401 |  [kiet0807](https://github.com/kiet0807) | https://www.facebook.com/profile.php?id=100004221012815 |
