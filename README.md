@@ -17,4 +17,6 @@
 
 | STT | Họ tên | MSSV | Github | Facebook |
 | :---: | --- | --- | --- | --- |
-| 1 | Nguyễn Văn Kiệt | 401 |  [kiet0807](https://github.com/kiet0807) | https://www.facebook.com/profile.php?id=100004221012815 |
+| 1 | Nguyễn Văn Kiệt | 15520401 |  [kiet0807](https://github.com/kiet0807) | https://www.facebook.com/profile.php?id=100004221012815 |
+| 2 | Phan Lê Xuân Trường | 19522444 |  [XuanTruong2408](https://github.com/XuanTruong2408) | https://www.facebook.com/ConCaCon2408 |
+| 3 | Lê Duy Hoàng | 19521533 |  [DyHon](https://github.com/DyHon) | https://www.facebook.com/ldh2210 |
